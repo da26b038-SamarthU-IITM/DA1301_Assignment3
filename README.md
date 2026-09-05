@@ -12,6 +12,10 @@ My hobbies and interests include:
 
 
 One Feature I found really __intriguing__ about git is that it allows us to collaborate on a project so seamlessly and remotely through a brilliantly developed system of branches and versions.  
-One git command I found **interesting** was the command to clone an existing git repository on GitHub onto your own PC. It is an extremely fundamental, useful command to work on large projects. the command is : git clone #link>
+One git command I found **interesting** was the command to clone an existing git repository on GitHub onto your own PC. It is an extremely fundamental, useful command to work on large projects. the command is : git clone #link>    
+
+### What I Learnt:  
+I am learning how Git and GitHub work together.
+
 
 
